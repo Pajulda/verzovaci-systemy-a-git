@@ -1,1 +1,1 @@
-# DA verzovací systémy
+# Lekce GITu
