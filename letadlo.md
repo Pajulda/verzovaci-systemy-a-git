@@ -1,9 +1,9 @@
 # Letadlo
 
-Letí, letí letadlo,
+Letí, letí vrtulník,
 koho by to napadlo.
 
-Vyletělo mezi mráčky,
+Vyletělo mezi oblaka,
 pozdravilo všechny ptáčky.
 
 Obletělo celý svět,
