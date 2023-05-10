@@ -1,10 +1,11 @@
 # Letadlo
 
-Letí, letí letadlo,
+Letí, letí st�ha�ka,
 koho by to napadlo.
 
-Vyletělo mezi mráčky,
+Vyletělo mezi oblaka,
 pozdravilo všechny ptáčky.
 
 Obletělo celý svět,
 vrátilo se na zem zpět.
+
